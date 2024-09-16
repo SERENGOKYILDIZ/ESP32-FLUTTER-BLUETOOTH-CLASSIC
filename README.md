@@ -1,5 +1,5 @@
 # ESP32 & FLUTTER BLUETOOTH CLASSIC COMMUNICATION
-A project that communicates with an ESP32 or similar microcontroller via a Bluetooth Classic tool
+A project that communicates with an ESP32 or similar microcontroller via a Bluetooth Classic
 - ***Link headers***
   - [Gradle Settings](#1--gradle-settings)<br/>
   - [Console Codes](#2--console-codes)<br/>
