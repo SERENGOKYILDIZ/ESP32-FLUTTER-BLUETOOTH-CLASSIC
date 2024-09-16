@@ -1,10 +1,10 @@
 # ESP32 & FLUTTER BLUETOOTH CLASSIC COMMUNICATION
 A project that communicates with an ESP32 or similar microcontroller via a Bluetooth Classic tool
 - ***Link headers***
-  - [1-) Gradle Settings](#gradle-settings)<br/>
-  - [2-) Console Codes](#console-codes)<br/>
-  - [3-) Permissions Settings](#permissions-settings)<br/>
-  - [4-) Main Code](#main-code)<br/>
+  - [Gradle Settings](#1--gradle-settings)<br/>
+  - [Console Codes](#2--console-codes)<br/>
+  - [Permissions Settings](#3--permissions-settings)<br/>
+  - [Main Code](#4--main-code)<br/>
   
 > [!NOTE]
 > It is necessary to fulfill some steps for the Flutter project
