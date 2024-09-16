@@ -79,7 +79,7 @@ flutter clean
 flutter pub get
 ```
 ### 3-) Permissions Settings
-These lines are added for permission;
+These lines are added to the "android/app/src/main/AndroidManifest.xml" file for permissions;
 ```xml
 <uses-permission android:name="android.permission.BLUETOOTH" />
 <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
